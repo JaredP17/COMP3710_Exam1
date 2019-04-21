@@ -2,7 +2,7 @@
 1. The first part is a TextView displaying the current balance
 
 2. The second part is for entering money adding/spending activities with
-+ A text box for the date
+ A text box for the date
 + A text box for the amount
 + A text box for the spending purpose or the source of added money 
 + A button with caption "+" for adding money to the account
