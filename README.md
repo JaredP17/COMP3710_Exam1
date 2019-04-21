@@ -1,4 +1,4 @@
-# COMP3710_Exam1
+# Exam1
 1. The first part is a TextView displaying the current balance
 
 2. The second part is for entering money adding/spending activities with
